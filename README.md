@@ -3,7 +3,9 @@ Property Listings - An iOS mobile app that displays real estate listings
 
 
 
-Property Listings is a mobile application written in Javascript that displays real estate data. I wrote this application following along with Ray Wenderlich's React Native tutorial. https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript. I added a feature by seguing to a detail view where I list details for the selected listing.
+Property Listings is a mobile application written in Javascript that displays real estate data. I wrote this application following along with Ray Wenderlich's React Native tutorial. https://www.raywenderlich.com/165140/react-native-tutorial-building-ios-android-apps-javascript. 
+
+I have contributed to the original code by adding a segue to a detail view, where I list details for the selected listing.
 
 ## Getting Started
 
